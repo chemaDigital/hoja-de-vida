@@ -1,0 +1,14 @@
+article{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.list-group{
+    text-align: center;
+    margin: 10px;
+    
+}
+.list-group-item{
+    border: 1px solid black;
+    margin: 8px;
+}

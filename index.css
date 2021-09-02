@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    justify-content: space-evenly ;
+}
+h1{
+    border: 2px solid #000;
+    padding-top: 10px;
+}
+img{
+    border-radius: 100%;
+}
